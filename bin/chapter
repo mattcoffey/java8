@@ -1,0 +1,6 @@
+#!/bin/bash
+# Create a new working directory where the name is defined after the first argument
+
+mkdir -p $1/bin
+ln -s ../../bin/new $1/bin/new
+ln -s ../../bin/cr $1/bin/cr

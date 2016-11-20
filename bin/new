@@ -1,0 +1,10 @@
+#!/bin/bash
+# Create a new skeleton runnable Java class with class name equal to the first argument of the script
+
+cat << EOF > ./$1.java
+public class $1 {
+    public static void main(String...args) {
+        
+    }
+}
+EOF
