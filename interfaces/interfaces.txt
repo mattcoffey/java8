@@ -1,6 +1,6 @@
 1. C
 2. C can't be static and default
 3. A can't provide a default implementation of class Object methods, but this has different sig
-4. B choosed most specific
+4. B choose most specific
 5. C unlike classes, static methods can't be inferred from a variable type
 6. B Chooses most specific
