@@ -1,0 +1,5 @@
+1. A raw types
+2. A raw types so float assigned to object
+3. C String isn't a superclass of object
+4. C instance of Object isn't specific enough to fulfill the contract ? super Number
+
