@@ -1,0 +1,5 @@
+1. A because there is no abstract method
+2. B,C the problem is 2 non equivalent methods on a functional interface
+3. A,C compiles successfully 
+4. A,D Callable and Comparable are the only classes with only one method
+5. B not a functional interface
